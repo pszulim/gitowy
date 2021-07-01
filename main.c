@@ -1,10 +1,11 @@
 #include "stdio.h"
 
+#define NAPIS "Witam\n"
 
 
 int main(){
 
-    printf("Hello world");
+    printf(NAPIS);
 
     return 0;
 }
