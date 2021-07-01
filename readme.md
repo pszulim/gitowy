@@ -1,4 +1,4 @@
 ## Moj projekt
 Projekt 1
 
-Zaczynamy 
+Zaczynamy teskt do Nowa_wersja
